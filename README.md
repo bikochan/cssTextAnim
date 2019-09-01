@@ -2,8 +2,7 @@
 
 This is a simple take on [this video](https://www.youtube.com/watch?v=vJNVramny9k&t=282s) I randomly found.
 
-I used [Inkscape](https://inkscape.org/) to generate the SVG and that didn't go too well so I had to fiddle with sizes/positions and translation
-to get something visible.
+I used [Inkscape](https://inkscape.org/) to generate the SVG and that didn't go too well so I had to fiddle with sizes/positions and translation to get something visible.
 Maybe another tool would have been simpler for me to use and generate the exact output I meeded.
 The javascript code will regenerate the animation based on the text, so no more copy/pasting here.
 
